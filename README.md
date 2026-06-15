@@ -20,6 +20,7 @@ Run real ransomware behavior in an isolated VM – encrypts files, deletes shado
 ![Attack Mode Beginning](attack_mode_beginning.png)
 ![File Encryption](encrypted_files.png) 
 ![Ransom Note & File Extension](ransom_note_file_extension.png)
+![Roll Back Mode](roll_back_mode.png)
 
 ## Safety
 
