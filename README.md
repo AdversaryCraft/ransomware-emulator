@@ -21,7 +21,7 @@ Run real ransomware behavior in an isolated VM – encrypts files, deletes shado
 
 ## Safety
 
-- Rollback decrypts all `.qilin` files and removes registry persistence.  
+- Rollback decrypts all `.qilin` files, removes registry persistence and ransom note.  
 - Shadow copies and event logs are **not** restored – that’s why you use a VM snapshot.
 
 ## Full Documentation
