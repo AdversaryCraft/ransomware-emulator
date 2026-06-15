@@ -17,7 +17,7 @@ Run real ransomware behavior in an isolated VM – encrypts files, deletes shado
 - Ransom note on Desktop  
 - Shadow copies deleted, processes killed  
 
-(We will add screenshots of the debug output, ransom note, file extension change, and rollback.)
+![Attack Mode Beginning](attack_mode_beginning.png)
 
 ## Safety
 
